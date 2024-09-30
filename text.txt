@@ -1,0 +1,5 @@
+El Legado de Python
+En un futuro no muy lejano, la humanidad había alcanzado un hito impresionante en el campo de la inteligencia artificial
+y la computación cuántica. Sin embargo, el verdadero poder detras de este avance no era una supercomputadora cuántica, 
+sino un lenguaje de programación: Python.
+
